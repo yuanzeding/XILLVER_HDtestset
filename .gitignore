@@ -1,8 +1,11 @@
+*.h5
 *.png
 .ipynb*
 cigale/
 pub/
 xray/
 pub2/
+pub3/
 hst/
 galfit/
+Keck_proposal/
